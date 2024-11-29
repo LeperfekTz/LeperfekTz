@@ -4,7 +4,7 @@
 Explorando ideias criativas e soluções inovadoras em tecnologia
 Sobre mim
 
-# ![snake gif](https://github.com/LeperfekTz/LeperfekTz/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LeperfekTz/LeperfekTz/blob/output/github-snake-dark.svg)
 
 Estudante de Análise e Desenvolvimento de Sistemas na UNIP.
 Apaixonado por desenvolvimento de software, IoT, e soluções práticas para o dia a dia.
