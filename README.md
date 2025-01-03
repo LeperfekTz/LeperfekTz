@@ -8,7 +8,7 @@ Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas na UNIP.
 Apaixonado por desenvolvimento de software, IoT, e soluções práticas para o dia a dia.
-Experiência com ferramentas como Electron JS, Python, ESP32, e mais.
+Experiência com ferramentas como Flet, Django, Python, ESP32, e mais.
 
 Criar soluções que unem simplicidade e funcionalidade.
 Compartilhar conhecimento e contribuir com a comunidade open source.
