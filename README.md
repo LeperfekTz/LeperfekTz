@@ -6,13 +6,12 @@ Sobre mim
 
 ![snake gif](https://github.com/LeperfekTz/LeperfekTz/blob/output/github-snake-dark.svg)
 
-Estudante de Análise e Desenvolvimento de Sistemas na UNIP.
-Apaixonado por desenvolvimento de software, IoT, e soluções práticas para o dia a dia.
-Experiência com ferramentas como Flet, Django, Python, ESP32, e mais.
+Desenvolvedor apaixonado por software, IoT e soluções práticas para o dia a dia.
+Experiência com ferramentas como Flet, Django, Python, ESP32, entre outras.
 
-Criar soluções que unem simplicidade e funcionalidade.
-Compartilhar conhecimento e contribuir com a comunidade open source.
-Desenvolver habilidades para enfrentar novos desafios no mundo da tecnologia.
+Foco em criar soluções que unem simplicidade e funcionalidade.
+Compartilho conhecimento e contribuo com a comunidade open source.
+Sempre em busca de novos desafios no mundo da tecnologia.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeperfekTz&show_icons=true&theme=dark)
 
