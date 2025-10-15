@@ -13,8 +13,6 @@ Foco em criar soluções que unem simplicidade e funcionalidade.
 Compartilho conhecimento e contribuo com a comunidade open source.
 Sempre em busca de novos desafios no mundo da tecnologia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeperfekTz&show_icons=true&theme=dark)
-
 ## Skills 
 
 <div style="display: inline_block"><br/>
